@@ -1,6 +1,7 @@
 # MCP-Servers
 
-Command:
-uv run mcp install main.py
+Commands: <br />
+uv init . <br />
+uv run mcp install main.py <br />
 
-Then open the claude desktop app to try out the mcp servers
+Then open the claude desktop app to try out the mcp servers <br />
